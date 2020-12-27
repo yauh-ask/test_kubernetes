@@ -91,7 +91,7 @@
     k get rs
     k delete rs mypod
 
-#### DaemonSet, run on all modes
+#### DaemonSet, run on all nodes
 
     k create -f daemon-set.yml
     k get ds
